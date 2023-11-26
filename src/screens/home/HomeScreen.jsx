@@ -12,7 +12,7 @@ const HomeScreen = () => {
           dispatch(setUser({ userName: "" }));
         }}
       >
-        <Text>Çıkış yap</Text>
+        <Text>Çıkış yap1</Text>
       </TouchableOpacity>
     </View>
   );
