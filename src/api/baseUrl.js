@@ -1,3 +1,3 @@
-const VodafonePdksUrl = "https://pdksservice.akillisurec.com/";
+const VodafonePdksUrl = "";
 
 export default BaseURL = VodafonePdksUrl;
